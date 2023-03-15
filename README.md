@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Helix Jump Clone.
+- 🔭 I’m currently working on Ball Blast Clone.
 - 🌱 I’m currently learning in SkillFactory School.
 - 👯 I want to collaborate on the joint development of the game.
 - 🤔 I’m looking for help with Unity.
