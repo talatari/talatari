@@ -1,4 +1,4 @@
-### 👋 everyone 
+### Hey, everyone! 👋
 
 I study Unity and C#. I'm looking for a job in Game Development. </br>
 From June to October, I was absent from GitHub because I was on Gist.GitHub - I studied C# in detail. </br>
