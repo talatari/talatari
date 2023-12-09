@@ -6,5 +6,4 @@ Now I'm back on GitHub, studying Unity. </br>
 
 <b>Languages:</b> C#, Python, Swift </br>
 <b>Tools:</b> Unity, Git </br>
-<b>Others:</b> MSSQL, Oracle SQL, Linux Red Hut </br>
-
+<b>Others:</b> MSSQL, Oracle SQL, SQLite, Linux Red Hut, Putty </br>
