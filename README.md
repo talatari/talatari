@@ -8,5 +8,5 @@ Now I'm back on GitHub, studying Unity. </br>
 <b>Tools:</b> Unity, Git </br>
 <b>Others:</b> MSSQL, Oracle SQL, SQLite, Linux Red Hut, Putty </br>
 
-I am currently looking for a job and working on this project:
+<b>I am currently looking for a job and working on this project:</b>
 [Draft Game on Yandex Games](https://yandex.ru/games/app/291940?draft=true&lang=ru)
